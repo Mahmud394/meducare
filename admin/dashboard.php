@@ -5,7 +5,7 @@ require_once '../includes/auth_check.php';
 
 requireAdmin();
 
-// Get statistics
+
 $stats = [];
 
 // Total users

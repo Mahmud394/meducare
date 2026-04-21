@@ -2,8 +2,8 @@
     <div class="footer-content">
         <div class="footer-section">
             <h4>About Meducare</h4>
-            <a href="#">Our Mission</a>
-            <a href="#">How It Works</a>
+            <a href="home.php">Our Mission</a>
+            <a href="medicines.php">How It Works</a>
             <a href="#">Team</a>
             <a href="#">Careers</a>
         </div>
@@ -16,17 +16,17 @@
         </div>
         <div class="footer-section">
             <h4>Support</h4>
-            <a href="#">Help Center</a>
-            <a href="#">Contact Us</a>
+            <a href="https://www.facebook.com/MAHMUDUNNAB1">Help Center</a>
+            <a href="https://www.facebook.com/MAHMUDUNNAB1">Contact Us</a>
             <a href="#">Privacy Policy</a>
             <a href="#">Terms of Service</a>
         </div>
         <div class="footer-section">
             <h4>Connect</h4>
-            <a href="#"><i class="fab fa-facebook"></i> Facebook</a>
-            <a href="#"><i class="fab fa-twitter"></i> Twitter</a>
-            <a href="#"><i class="fab fa-linkedin"></i> LinkedIn</a>
-            <a href="#"><i class="fab fa-instagram"></i> Instagram</a>
+            <a href="https://www.facebook.com/MAHMUDUNNAB1"><i class="fab fa-facebook"></i> Facebook</a>
+            <a href="https://x.com/MahmudU00814521"><i class="fab fa-twitter"></i> Twitter</a>
+            <a href="https://www.linkedin.com/in/mahmud-un-nabi-056808285/"><i class="fab fa-linkedin"></i> LinkedIn</a>
+            <a href="https://www.instagram.com/mahmud.un.nabi/"><i class="fab fa-instagram"></i> Instagram</a>
         </div>
     </div>
     <div class="footer-bottom">
